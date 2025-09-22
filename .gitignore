@@ -1,0 +1,33 @@
+# Archivos de compilación
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# Archivos de depuración
+*.gch
+*.pch
+*.dSYM/
+*.stackdump
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.xcodeproj
+*.classpath
+*.project
+*.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
